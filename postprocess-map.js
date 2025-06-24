@@ -22,7 +22,7 @@ if (!html.includes('apple-touch-icon')) {
 // ✅ Update <title>
 html = html.replace(
   /<title>.*?<\/title>/,
-  '<title>Dan’s AI Terminology Tracker</title>'
+  '<title>Dan’s Azure CAF Markmap</title>'
 );
 
 // ✅ Update #mindmap style with dark background + white text
@@ -92,10 +92,10 @@ const headerHTML = `
     border-bottom: 1px solid #222;
   ">
     <h1 style="font-size: 2.25rem; margin: 0; font-weight: 600;">
-      🧠 Dan’s AI Terminology Tracker
+      🗺️ Dan’s Azure CAF Markmap
     </h1>
     <p style="margin-top: 0.75rem; font-size: 1.05rem; color: #aaa; max-width: 800px; margin-left: auto; margin-right: auto;">
-      A living map of key AI/ML concepts - grounded in Microsoft AI terminology.
+      A interactive map of the Microsoft Cloud Adoption Framework for Azure
     </p>
     <p style="margin-top: 0.5rem; font-size: 0.95rem; color: #666;">
       By Daniel McLoughlin ☁️ &nbsp;|&nbsp;
@@ -103,7 +103,7 @@ const headerHTML = `
         Visit my blog →
       </a>
       |&nbsp;
-      <a href="https://github.com/CloudDevDan/dans-ai-terminology-tracker" target="_blank" style="color: #4da6ff; text-decoration: none;">
+      <a href="https://github.com/CloudDevDan/azure-caf-markmap" target="_blank" style="color: #4da6ff; text-decoration: none;">
         Project repo →
       </a>
     </p>
