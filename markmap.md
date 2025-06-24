@@ -5,11 +5,16 @@ markmap:
   activeNode:
     placement: center
   spacingVertical: 8
+  initialExpandLevel: 3
+
+
 ---
 
 # Cloud Adoption Framework (CAF)
 
-## 📋 Strategy
+## 🧠 Methodologies
+
+### 📋 Strategy
 - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/strategy/" target="_blank">Overview</a>
 - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/strategy/assessment" target="_blank">Assess your cloud adoption strategy</a>
 - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/strategy/motivations" target="_blank">Determine your motivations</a>
@@ -22,7 +27,7 @@ markmap:
   - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/strategy/inform/security" target="_blank">Security</a>
   - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/strategy/inform/sustainability" target="_blank">Sustainability</a>
 
-## 📅 Plan
+### 📅 Plan
 - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/plan/" target="_blank">Overview</a>
 - Digital estate
   - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/digital-estate/5-rs-of-rationalization" target="_blank">The five Rs of rationalisation</a>
@@ -47,12 +52,195 @@ markmap:
 - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/plan/plan-sustainability" target="_blank">Sustainability considerations</a>
 - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/antipatterns/plan-antipatterns" target="_blank">Plan antipatterns</a>
 
-## 🛠️ Ready
+### 🛠️ Ready
+- <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/" target="_blank">Overview</a>
+- Azure setup guide
+  - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-setup-guide/" target="_blank">Setup guide overview</a>
+  - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-setup-guide/organize-resources" target="_blank">Organise resources</a>
+  - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-setup-guide/regions" target="_blank">Select regions</a>
+  - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-setup-guide/manage-access" target="_blank">Manage access</a>
+  - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-setup-guide/manage-costs" target="_blank">Manage costs and billing</a>
+  - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-setup-guide/govern-org-compliance" target="_blank">Plan governance, security, and compliance</a>
+  - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-setup-guide/monitoring-reporting" target="_blank">Monitoring and reporting</a>
+  - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-setup-guide/staying-current" target="_blank">Stay current with Azure</a>
+- Operating model
+  - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/operating-model/" target="_blank">Overview</a>
+  - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/operating-model/define" target="_blank">Define your operating model</a>
+  - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/operating-model/compare" target="_blank">Compare common cloud operating models</a>
+  - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/operating-model/terms" target="_blank">Common operating model terms</a>
+- Azure landing zones
+  - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/" target="_blank">What is an Azure landing zone?</a>
+  - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-principles" target="_blank">Design principles</a>
+  - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/landing-zone-journey" target="_blank">Journey to the target architecture</a>
+  - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/ready-azure-landing-zone" target="_blank">Prepare your landing zone for migration</a>
+  - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/design-areas" target="_blank">Design areas</a> <!-- to be expanded -->
+  - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/implementation-options" target="_blank">Implementation options</a> <!-- to be expanded -->
+  - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/transition" target="_blank">Align</a> <!-- to be expanded -->
+  - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/considerations/" target="_blank">Enhance</a> <!-- to be expanded -->
+  - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/enterprise-scale/faq" target="_blank">Azure landing zones FAQ</a>
+- <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/suggested-skills" target="_blank">Skills relevant to ready and landing zones</a>
+- <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/antipatterns/ready-antipatterns" target="_blank">Ready antipatterns</a>
 
-## 🚀 Adopt
+### 🚀 Adopt
+- <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/adopt/" target="_blank">Overview</a>
+- Migrate
+  - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/" target="_blank">Overview</a>
+  - Prepare
+    - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/prepare/" target="_blank">Overview</a>
+    - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/prepare/tools-backlog" target="_blank">Prepare tools and backlog</a>
+    - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/prepare/select-regions-migration" target="_blank">Select migration regions</a>
+    - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/prepare/roles-responsibilities" target="_blank">Align roles and responsibilities</a>
+    - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/prepare/skills-support" target="_blank">Get support resources and improve skills</a>
+  - Assess
+    - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/assess/" target="_blank">Overview</a>
+    - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/assess/classify" target="_blank">Classify workloads</a>
+    - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/assess/evaluate" target="_blank">Evaluate workload readiness</a>
+    - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/assess/architect" target="_blank">Architect workloads</a>
+  - Deploy
+    - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/deploy/" target="_blank">Overview</a>
+    - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/deploy/deploy-supporting-services" target="_blank">Deploy supporting services for migration projects</a>
+    - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/deploy/remediate" target="_blank">Remediate assets</a>
+    - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/deploy/replicate" target="_blank">Replicate assets</a>
+    - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/deploy/prepare-for-management" target="_blank">Prepare for management</a>
+    - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/deploy/migration-test" target="_blank">Migration testing</a>
+  - Release
+    - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/release/" target="_blank">Overview</a>
+    - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/release/change-communication" target="_blank">Change communication</a>
+    - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/release/business-test" target="_blank">Perform business testing</a>
+    - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/release/complete-migration" target="_blank">Complete migration</a>
+    - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/release/optimize-cost-after-migration" target="_blank">Optimise cost after migration</a>
+    - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/release/retrospective" target="_blank">Conduct retrospectives</a>
+  - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/scenarios" target="_blank">Product migration guidance</a>
+- Modernize
+  - <a href="" target="_blank">Overview</a>
+  - Business alignment
+    - <a href="" target="_blank">Overview</a>
+    - <a href="" target="_blank">Envision</a>
+    - <a href="" target="_blank">Evaluate</a>
+    - <a href="" target="_blank">Commit</a>
+  - Modernisation strategies
+    - <a href="" target="_blank">Overview</a>
+    - <a href="" target="_blank">Process modernisation</a>
+    - <a href="" target="_blank">Application modernisation</a>
+    - <a href="" target="_blank">Database modernisation</a>
+- Innovate
+  - <a href="" target="_blank">Overview</a>
+  - Azure innovation guide
+    - <a href="" target="_blank">Innovation guide overview</a>
+    - <a href="" target="_blank">Prepare for customer feedback</a>
+    - <a href="" target="_blank">Democratise data</a>
+    - <a href="" target="_blank">Engage customers through applications</a>
+    - <a href="" target="_blank">Empower adoption</a>
+    - <a href="" target="_blank">Interact through devices</a>
+  - Innovation scenarios
+    - Kubernetes
+      - <a href="" target="_blank">Innovation with Kubernetes</a>
+      - <a href="" target="_blank">Application development and deployment</a>
+      - <a href="" target="_blank">Cluster design and operations</a>
+      - <a href="" target="_blank">Cluster and application security</a>
+  - Best practices
+    - <a href="" target="_blank">Overview and Azure toolchain</a>
+    - <a href="" target="_blank">Democratise data</a>
+    - <a href="" target="_blank">Engage via applications</a>
+    - <a href="" target="_blank">Empower adoption</a>
+    - <a href="" target="_blank">Interact with devices</a>
+  - Process improvements
+    - <a href="" target="_blank">Overview</a>
+    - <a href="" target="_blank">Business value consensus</a>
+    - Customer adoption
+      - <a href="" target="_blank">Feedback loops</a>
+      - <a href="" target="_blank">Build with customer empathy</a>
+      - <a href="" target="_blank">Measure for customer impact</a>
+      - <a href="" target="_blank">Learn with customers</a>
+      - <a href="" target="_blank">Customer challenges and blockers</a>
+    - Digital invention
+      - <a href="" target="_blank">Develop digital inventions</a>
+      - <a href="" target="_blank">Democratise data</a>
+      - <a href="" target="_blank">Application development for innovative applications</a>
+      - <a href="" target="_blank">Empower adoption</a>
+      - <a href="" target="_blank">Interact with devices</a>
+      - <a href="" target="_blank">Predict and influence</a>
+- Guides
+  - <a href="" target="_blank">Cloud adoption journey</a>
+  - <a href="" target="_blank">Migrate or modernise first?</a>
 
-## 🔐 Govern
+### 🔐 Govern
+- <a href="" target="_blank">Overview</a>
+- <a href="" target="_blank">Build a cloud governance team</a>
+- <a href="" target="_blank">Assess cloud risks</a>
+- <a href="" target="_blank">Document cloud governance policies</a>
+- <a href="" target="_blank">Enforce cloud governance policies</a>
+- <a href="" target="_blank">Monitor cloud governance</a>
 
-## 🛡️ Secure
+### 🛡️ Secure
+- <a href="" target="_blank">Overview</a>
+- <a href="" target="_blank">Teams and roles</a>
+- <a href="" target="_blank">Strategy</a>
+- <a href="" target="_blank">Plan</a>
+- <a href="" target="_blank">Ready</a>
+- <a href="" target="_blank">Adopt</a>
+- <a href="" target="_blank">Govern</a>
+- <a href="" target="_blank">Manage</a>
 
-## ⚙️ Manage
+### ⚙️ Manage
+- <a href="" target="_blank">Checklist</a>
+- <a href="" target="_blank">Ready operations</a>
+- <a href="" target="_blank">Administer Azure</a>
+- <a href="" target="_blank">Monitor Azure</a>
+- <a href="" target="_blank">Protect Azure</a>
+
+## 📁 Resources
+  ### 📚 Adoption scenarios
+  - <a href="" target="_blank">AI adoption</a>
+  - <a href="" target="_blank">Azure VMware Solution</a>
+  - <a href="" target="_blank">Cloud-scale analytics</a>
+  - <a href="" target="_blank">High-performance computing</a>
+  - <a href="" target="_blank">Hybrid and multicloud</a>
+  - <a href="" target="_blank">Modern application platform</a>
+  - <a href="" target="_blank">Oracle</a>
+  - <a href="" target="_blank">SAP</a>
+  - <a href="" target="_blank">Virtual desktops</a>
+  ### 🧭 Organise
+  - <a href="" target="_blank">Managing organisation alignment</a>
+  - Required cloud functions
+    - <a href="" target="_blank">Cloud strategy functions</a>
+    - <a href="" target="_blank">Cloud adoption functions</a>
+    - <a href="" target="_blank">Cloud governance functions</a>
+    - <a href="" target="_blank">Central IT functions</a>
+    - <a href="" target="_blank">Cloud operations functions</a>
+    - <a href="" target="_blank">Cloud centre of excellence functions</a>
+    - <a href="" target="_blank">Cloud platform functions</a>
+    - <a href="" target="_blank">Cloud automation functions</a>
+    - <a href="" target="_blank">Cloud data functions</a>
+  - <a href="" target="_blank">Mature teams structure</a>
+  - <a href="" target="_blank">Align the RACI matrix</a>
+  - <a href="" target="_blank">Building technical skills</a>
+  - <a href="" target="_blank">Creating a cost-conscious organisation</a>
+  - Organise antipatterns
+    - <a href="" target="_blank">Organisational antipatterns</a>
+    - <a href="" target="_blank">IT fiefdoms and IT silos</a>
+  ### 🛠️ Tools
+  - Strategy
+    - <a href="https://learn.microsoft.com/en-us/assessments/8fefc6d5-97ac-42b3-8e97-d82701e55bab/" target="_blank">Cloud Adoption Strategy Evaluator assessment</a>
+    - <a href="https://learn.microsoft.com/en-us/assessments/cloud-journey-tracker/" target="_blank">Cloud Journey Tracker assessment</a>
+  - Plan
+    - <a href="https://learn.microsoft.com/en-us/assessments/Strategic-Migration-Assessment/" target="_blank">Strategic Migration Assessment and Readiness Tool assessment</a>
+    - <a href="https://learn.microsoft.com/en-us/assessments/cloud-journey-tracker/" target="_blank">Cloud Journey Tracker assessment</a>
+  - Ready
+    - <a href="https://github.com/mspnp/AzureNamingTool" target="_blank">Azure naming tool</a>
+    - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/landing-zone/deploy-landing-zones-with-terraform" target="_blank">Terraform modules</a>
+    - <a href="https://registry.terraform.io/search?q=aztfmod" target="_blank">Terraform registry</a>
+    - <a href="https://github.com/Azure/Enterprise-Scale/" target="_blank">Enterprise-scale landing zone</a>
+    - <a href="https://github.com/Azure/data-management-zone" target="_blank">Data management zone</a>
+    - <a href="https://github.com/Azure/data-landing-zone" target="_blank">Data landing zone</a>
+    - <a href="https://azuredevopsdemogenerator.azurewebsites.net/?name=dataanalytics" target="_blank">Data management and landing zone Azure DevOps template</a>
+  - Govern
+    - <a href="https://learn.microsoft.com/en-us/assessments/b1891add-7646-4d60-a875-32a4ab26327e/" target="_blank">Cloud governance assessment</a>
+    - <a href="https://github.com/azure/azure-governance-visualizer" target="_blank">Azure Governance Visualizer</a>
+    - <a href="https://github.com/Azure/Azure-Governance-Visualizer-Accelerator" target="_blank">Azure Governance Visualizer Accelerator</a>
+    - <a href="https://azure.github.io/PSRule.Rules.Azure/" target="_blank">PSRule for Azure</a>
+    - <a href="https://www.azadvertizer.net/" target="_blank">AzAdvertizer</a>
+### 📦 Additional resources
+  - <a href="https://learn.microsoft.com/en-us/azure/architecture/" target="_blank">Azure Architecture Center</a>
+  - <a href="https://learn.microsoft.com/en-us/azure/architecture/framework/" target="_blank">Well-Architected Framework</a>
+  - <a href="https://learn.microsoft.com/en-us/azure/app-modernization-guidance" target="_blank">App Modernisation Guidance for Azure</a>
