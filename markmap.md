@@ -191,15 +191,15 @@ markmap:
 
 ## 📁 Resources
   ### 📚 Adoption scenarios
-  - <a href="" target="_blank">AI adoption</a>
-  - <a href="" target="_blank">Azure VMware Solution</a>
-  - <a href="" target="_blank">Cloud-scale analytics</a>
-  - <a href="" target="_blank">High-performance computing</a>
-  - <a href="" target="_blank">Hybrid and multicloud</a>
-  - <a href="" target="_blank">Modern application platform</a>
-  - <a href="" target="_blank">Oracle</a>
-  - <a href="" target="_blank">SAP</a>
-  - <a href="" target="_blank">Virtual desktops</a>
+  - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/ai/" target="_blank">AI adoption</a>
+  - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/azure-vmware/" target="_blank">Azure VMware Solution</a>
+  - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/data-management/" target="_blank">Cloud-scale analytics</a>
+  - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/azure-hpc/" target="_blank">High-performance computing</a>
+  - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/hybrid/" target="_blank">Hybrid and multicloud</a>
+  - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/app-platform/" target="_blank">Modern application platform</a>
+  - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/oracle-on-azure/" target="_blank">Oracle</a>
+  - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/sap/" target="_blank">SAP</a>
+  - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/scenarios/azure-virtual-desktop/" target="_blank">Virtual desktops</a>
   ### 🧭 Organise
   - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/organize/" target="_blank">Managing organisation alignment</a>
   - Required cloud functions
