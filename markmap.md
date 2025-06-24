@@ -112,57 +112,57 @@ markmap:
     - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/release/retrospective" target="_blank">Conduct retrospectives</a>
   - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/scenarios" target="_blank">Product migration guidance</a>
 - Modernize
-  - <a href="" target="_blank">Overview</a>
+  - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/modernize/" target="_blank">Overview</a>
   - Business alignment
-    - <a href="" target="_blank">Overview</a>
-    - <a href="" target="_blank">Envision</a>
-    - <a href="" target="_blank">Evaluate</a>
-    - <a href="" target="_blank">Commit</a>
+    - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/modernize/business-alignment/" target="_blank">Overview</a>
+    - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/modernize/business-alignment/envision-cloud-modernization" target="_blank">Envision</a>
+    - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/modernize/business-alignment/evaluate-modernization-options" target="_blank">Evaluate</a>
+    - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/modernize/business-alignment/commit-to-modernization-plan" target="_blank">Commit</a>
   - Modernisation strategies
-    - <a href="" target="_blank">Overview</a>
-    - <a href="" target="_blank">Process modernisation</a>
-    - <a href="" target="_blank">Application modernisation</a>
-    - <a href="" target="_blank">Database modernisation</a>
+    - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/modernize/modernize-strategies/" target="_blank">Overview</a>
+    - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/modernize/modernize-strategies/process-modernization" target="_blank">Process modernisation</a>
+    - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/modernize/modernize-strategies/application-modernization" target="_blank">Application modernisation</a>
+    - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/modernize/modernize-strategies/database-modernization" target="_blank">Database modernisation</a>
 - Innovate
-  - <a href="" target="_blank">Overview</a>
+  - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/innovate/" target="_blank">Overview</a>
   - Azure innovation guide
-    - <a href="" target="_blank">Innovation guide overview</a>
-    - <a href="" target="_blank">Prepare for customer feedback</a>
-    - <a href="" target="_blank">Democratise data</a>
-    - <a href="" target="_blank">Engage customers through applications</a>
-    - <a href="" target="_blank">Empower adoption</a>
-    - <a href="" target="_blank">Interact through devices</a>
+    - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/innovate/innovation-guide/" target="_blank">Innovation guide overview</a>
+    - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/innovate/innovation-guide/adoption" target="_blank">Prepare for customer feedback</a>
+    - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/innovate/innovation-guide/data" target="_blank">Democratise data</a>
+    - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/innovate/innovation-guide/apps" target="_blank">Engage customers through applications</a>
+    - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/innovate/innovation-guide/ci-cd" target="_blank">Empower adoption</a>
+    - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/innovate/innovation-guide/devices" target="_blank">Interact through devices</a>
   - Innovation scenarios
     - Kubernetes
-      - <a href="" target="_blank">Innovation with Kubernetes</a>
-      - <a href="" target="_blank">Application development and deployment</a>
-      - <a href="" target="_blank">Cluster design and operations</a>
-      - <a href="" target="_blank">Cluster and application security</a>
+      - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/innovate/kubernetes/" target="_blank">Innovation with Kubernetes</a>
+      - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/innovate/kubernetes/application-development" target="_blank">Application development and deployment</a>
+      - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/innovate/kubernetes/cluster-design-operations" target="_blank">Cluster design and operations</a>
+      - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/innovate/kubernetes/cluster-application-security" target="_blank">Cluster and application security</a>
   - Best practices
-    - <a href="" target="_blank">Overview and Azure toolchain</a>
-    - <a href="" target="_blank">Democratise data</a>
-    - <a href="" target="_blank">Engage via applications</a>
-    - <a href="" target="_blank">Empower adoption</a>
-    - <a href="" target="_blank">Interact with devices</a>
+    - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/innovate/best-practices/" target="_blank">Overview and Azure toolchain</a>
+    - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/innovate/best-practices/data" target="_blank">Democratise data</a>
+    - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/innovate/best-practices/apps" target="_blank">Engage via applications</a>
+    - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/innovate/best-practices/ci-cd" target="_blank">Empower adoption</a>
+    - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/innovate/best-practices/devices" target="_blank">Interact with devices</a>
   - Process improvements
-    - <a href="" target="_blank">Overview</a>
-    - <a href="" target="_blank">Business value consensus</a>
+    - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/innovate/considerations/" target="_blank">Overview</a>
+    - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/innovate/business-value" target="_blank">Business value consensus</a>
     - Customer adoption
-      - <a href="" target="_blank">Feedback loops</a>
-      - <a href="" target="_blank">Build with customer empathy</a>
-      - <a href="" target="_blank">Measure for customer impact</a>
-      - <a href="" target="_blank">Learn with customers</a>
-      - <a href="" target="_blank">Customer challenges and blockers</a>
+      - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/innovate/considerations/adoption" target="_blank">Feedback loops</a>
+      - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/innovate/considerations/build" target="_blank">Build with customer empathy</a>
+      - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/innovate/considerations/measure" target="_blank">Measure for customer impact</a>
+      - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/innovate/considerations/learn" target="_blank">Learn with customers</a>
+      - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/innovate/considerations/challenges" target="_blank">Customer challenges and blockers</a>
     - Digital invention
-      - <a href="" target="_blank">Develop digital inventions</a>
-      - <a href="" target="_blank">Democratise data</a>
-      - <a href="" target="_blank">Application development for innovative applications</a>
-      - <a href="" target="_blank">Empower adoption</a>
-      - <a href="" target="_blank">Interact with devices</a>
-      - <a href="" target="_blank">Predict and influence</a>
+      - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/innovate/considerations/invention" target="_blank">Develop digital inventions</a>
+      - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/innovate/considerations/data" target="_blank">Democratise data</a>
+      - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/innovate/considerations/apps" target="_blank">Application development for innovative applications</a>
+      - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/innovate/considerations/ci-cd" target="_blank">Empower adoption</a>
+      - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/innovate/considerations/devices" target="_blank">Interact with devices</a>
+      - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/innovate/considerations/predict" target="_blank">Predict and influence</a>
 - Guides
-  - <a href="" target="_blank">Cloud adoption journey</a>
-  - <a href="" target="_blank">Migrate or modernise first?</a>
+  - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/adopt/cloud-adoption" target="_blank">Cloud adoption journey</a>
+  - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/adopt/migrate-or-modernize" target="_blank">Migrate or modernise first?</a>
 
 ### 🔐 Govern
 - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/govern/" target="_blank">Overview</a>
