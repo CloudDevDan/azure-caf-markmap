@@ -1,4 +1,4 @@
-## Azure Cloud Adoption Framework – Executive Summary
+# Azure Cloud Adoption Framework – Executive Summary
 
 The Azure Cloud Adoption Framework (CAF) is Microsoft’s proven guidance to help organisations successfully plan and implement their move to the cloud. Whether you're just starting out, modernising legacy systems, or scaling operations, CAF offers a structured approach that aligns technical decisions with business goals.
 
@@ -14,56 +14,56 @@ Cloud adoption can be complex. Without a strategy, misaligned teams and fragment
 
 ---
 
-### 📋 Strategy
+## 📋 Strategy
 
 **Define the “why” behind your cloud journey.**  
 The Strategy phase helps your organisation identify business motivations, establish cloud objectives, and align stakeholders. By understanding desired outcomes and organisational priorities, you can ensure cloud adoption efforts deliver measurable business value.
 
 ---
 
-### 📅 Plan
+## 📅 Plan
 
 **Turn your strategy into a clear, actionable roadmap.**  
 Plan focuses on preparing for cloud adoption by assessing existing assets, forecasting costs, identifying skill gaps, and prioritising workloads. It helps define what needs to move, in what order, and what support structures are required.
 
 ---
 
-### 🛠️ Ready
+## 🛠️ Ready
 
 **Set up a secure and scalable foundation.**  
 Before migrating workloads, this phase ensures your Azure environment is ready. It includes designing landing zones, setting up governance and security controls, and aligning operations and access management. Ready establishes a repeatable, compliant infrastructure baseline.
 
 ---
 
-### 🚀 Adopt
+## 🚀 Adopt
 
 **Migrate and modernise workloads to realise cloud value.**  
 Adopt provides guidance on migrating existing assets and modernising applications. It includes detailed steps across preparation, assessment, deployment, and release. The phase also covers how to innovate with cloud-native technologies post-migration.
 
 ---
 
-### 🔐 Govern
+## 🔐 Govern
 
 **Maintain control and compliance in the cloud.**  
 Govern defines policies, processes, and guardrails to manage risks and ensure compliance across your cloud environment. It’s about balancing speed and flexibility with control, through policy enforcement, cost management, and continual monitoring.
 
 ---
 
-### 🛡️ Secure
+## 🛡️ Secure
 
 **Protect your assets with cloud-native security.**  
 Secure helps you build a comprehensive security strategy integrated across all CAF phases. It includes guidance on identity, network, and data protection, threat detection, and security posture management to ensure workloads remain safe and compliant.
 
 ---
 
-### ⚙️ Manage
+## ⚙️ Manage
 
 **Operate and support cloud solutions reliably at scale.**  
 Manage focuses on the day-to-day operations of your cloud environment. It includes best practices for monitoring, automation, cost optimisation, incident response, and service health - ensuring your cloud investments are sustainable and well-managed.
 
 ---
 
-### 🧭 Organise
+## 🧭 Organise
 
 **Align people and teams to enable successful cloud adoption.**  
 Organise helps you define the roles, responsibilities, and team structures needed to support your cloud journey. It outlines critical cloud functions - like strategy, governance, platform, operations, and automation - and ensures the right people are in place, with the right skills, to carry them out.
