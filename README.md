@@ -10,6 +10,18 @@ This resource is built using [**Markmap**](https://markmap.js.org/), a JavaScrip
 
 ---
 
+## 🌐 Related Projects
+
+Explore my other related projects:
+
+- [🗺️ Dan’s Azure CAF Markmap](https://github.com/CloudDevDan/azure-caf-markmap)
+- [🗺️ Dan’s Azure WAF Markmap](https://github.com/CloudDevDan/azure-waf-markmap)
+- [🧠 Dan’s AI Terminology Tracker](https://github.com/CloudDevDan/dans-ai-terminology-tracker)
+- [☁️ Dan’s Blog](https://daniel.mcloughlin.cloud/)
+- [☁️ Beginner To Builder with Azure AI Foundry](https://daniel.mcloughlin.cloud/series/azureai)
+
+---
+
 ## 📝 Microsoft Cloud Adoption Framework for Azure - Executive Summary
 
 For a concise overview of the Azure Cloud Adoption Framework and each of its key Methodologies, see the [Executive Summary](./azure-caf-exec-summary.md) file.
