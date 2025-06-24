@@ -1,10 +1,10 @@
 # 🗺️ Dan’s Azure CAF Markmap
 
-Welcome to **Dan’s Azure CAF Markmap** - an open, visual, and structured reference map of key concepts from the **Microsoft Cloud Adoption Framework for Azure**.
+Welcome to **Dan’s Azure CAF Markmap** - an open, visual, and structured reference map of key concepts from the [**Microsoft Cloud Adoption Framework for Azure**](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/).
 
 This resource is built using [**Markmap**](https://markmap.js.org/), a JavaScript-powered tool that turns Markdown lists into **interactive mind maps**. The result is a dynamic, explorable way to understand and organize terminology across a broad AI landscape - from foundational learning paradigms to Microsoft-specific AI services.
 
-<!-- <a href="https://ai-terms.daniel.mcloughlin.cloud/" target="_blank">
+<a href="https://ai-terms.daniel.mcloughlin.cloud/" target="_blank">
   <img src="https://img.shields.io/badge/View%20The%20Interactive%20Map-Live-blue?style=for-the-badge" alt="View the Interactive Map" />
 </a>
 
@@ -12,13 +12,15 @@ This resource is built using [**Markmap**](https://markmap.js.org/), a JavaScrip
 
 ## 🎯 About This Project
 
-As I continue my own journey studying AI, I’ve created this tracker to:
-- Serve as a **living reference point**
-- Support my ongoing content series on **Azure AI Foundry**
-- Help others in the **AI, ML, and Microsoft Azure communities** navigate terminology more easily
+I've built this project because I'm a visual learner, and while the Microsoft documentation for the Azure Cloud Adoption Framework (CAF) is excellent and comprehensive, the sheer volume of information can be overwhelming. Visualising the framework in an interactive map helps me better understand the structure, flow, and relationships between its components.
 
-📘 View my Azure AI Foundry content series here: [daniel.mcloughlin.cloud/series/azureai](https://daniel.mcloughlin.cloud/series/azureai)
+By making this project open, I hope others can benefit from this format too—whether you're just beginning your cloud journey or looking for a clearer way to communicate CAF principles to your team.
 
+> Note: All content and links are accurate as of **24 June 2025**. I’ll review and update periodically—pull requests are welcome!
+
+> **Disclaimer:** This project is not affiliated with or endorsed by Microsoft. All content and intellectual property referenced belong to Microsoft. I'm simply building a free and useful visual tool around the excellent work they've already done.
+
+---
 
 ### Screenshots
 <p align="center">
@@ -28,46 +30,16 @@ As I continue my own journey studying AI, I’ve created this tracker to:
   <img src="./img/expanded.jpg" alt="Dan’s AI Terminology Tracker Screenshot - Expanded Nodes" width="800" />
 </p>
 
-## ✅ Section Progress Tracker
-
-This project is a work in progress.
-
-| Section                          | Status       | Markmap Section Heading                |
-|----------------------------------|--------------|----------------------------------------|
-| Core Concepts (ML)               | ✅ Complete   | Machine Learning / Core Concepts       |
-| Learning Paradigms               | ✅ Complete   | Machine Learning / Learning Paradigms  |
-| Algorithms                       | ✅ Complete   | Machine Learning / Algorithms          |
-| Architectures (Deep Learning)    | ✅ Complete   | Deep Learning / Architectures          |
-| Components (DL)                  | ✅ Complete   | Deep Learning / Components             |
-| Generative AI - Models           | ⬜ To Do      | Generative AI / Models                 |
-| Generative AI - Techniques       | ⬜ To Do      | Generative AI / Techniques             |
-| Generative AI - Concepts         | ⬜ To Do      | Generative AI / Concepts               |
-| MLOps Practices                  | ⬜ To Do      | MLOps & GenAIOps / MLOps Practices     |
-| GenAIOps Additions               | ⬜ To Do      | MLOps & GenAIOps / GenAIOps Additions  |
-| GenAIOps Tooling                 | ✅ Complete   | MLOps & GenAIOps / GenAIOps Tooling    |
-| Data & Pipelines                 | ⬜ To Do      | Data & Pipelines                       |
-| Microsoft AI Stack               | ✅ Complete   | Microsoft AI Stack                     |
-| Ethics, Safety & Governance      | ✅ Partial    | Ethics, Safety & Governance            |
-| GenAI Platform Features          | ✅ Complete   | GenAI Platform Features                |
-| Infrastructure & Deployment      | ✅ Complete   | Infrastructure & Deployment            |
-| Tools & Frameworks               | ⬜ To Do      | Tools & Frameworks                     |
-| Related Fields (NLP, CV, Speech) | ⬜ To Do      | Related Fields                         |
-
 ---
 
 ## 🧠 What You'll Find
 
-This terminology tracker includes:
-- Core concepts in AI, ML, and Deep Learning
-- Generative AI topics like LLMs, Prompt Engineering, and RAG
-- MLOps & GenAIOps terms and processes
-- Data pipelines, model lifecycles, and infrastructure
-- Microsoft-centric AI tools and services from Azure AI
-- Related domains including NLP, CV, and Speech
-- Ethics, safety, and responsible AI considerations
-
-> **Note:** This tracker currently has a **Microsoft slant** — it reflects the language and concepts I encounter via **Microsoft Learn** and **Azure AI Services**. Feel free to contribute if you'd like to see other sections.
-
+- A fully interactive [Markmap](https://markmap.js.org) visualisation of the Azure CAF
+- Structured links to official Microsoft Learn documentation
+- Sections aligned to the CAF methodology: Strategy, Plan, Ready, Adopt, Govern, Secure, Manage
+- Tools, templates, and resource references by phase
+- Helpful hierarchy and grouping to reduce overwhelm and improve navigation
+- 
 ---
 
 ## 📈 Visual Format
@@ -95,8 +67,6 @@ Feel free to:
 This project is licensed under the **MIT License** — you're free to use, share, remix, and build upon it, as long as attribution is given.
 
 --- 
-
--->
 
 ## 🛠 How It's Built
 
@@ -160,4 +130,4 @@ This will:
 The `docs` folder is used because GitHub Pages has been configured to serve static content from it.  
 The `index.html` is published at:
 
-<!-- 📍 `https://clouddevdan.github.io/dans-ai-terminology-tracker/index.html` -->
+📍 `https://clouddevdan.github.io/azure-caf-markmap/index.html`
