@@ -10,7 +10,7 @@ markmap:
 
 ---
 
-# Cloud Adoption Framework (CAF)
+# Azure Cloud Adoption Framework
 
 ## 🧠 Methodologies
 
@@ -201,24 +201,24 @@ markmap:
   - <a href="" target="_blank">SAP</a>
   - <a href="" target="_blank">Virtual desktops</a>
   ### 🧭 Organise
-  - <a href="" target="_blank">Managing organisation alignment</a>
+  - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/organize/" target="_blank">Managing organisation alignment</a>
   - Required cloud functions
-    - <a href="" target="_blank">Cloud strategy functions</a>
-    - <a href="" target="_blank">Cloud adoption functions</a>
-    - <a href="" target="_blank">Cloud governance functions</a>
-    - <a href="" target="_blank">Central IT functions</a>
-    - <a href="" target="_blank">Cloud operations functions</a>
-    - <a href="" target="_blank">Cloud centre of excellence functions</a>
-    - <a href="" target="_blank">Cloud platform functions</a>
-    - <a href="" target="_blank">Cloud automation functions</a>
-    - <a href="" target="_blank">Cloud data functions</a>
-  - <a href="" target="_blank">Mature teams structure</a>
-  - <a href="" target="_blank">Align the RACI matrix</a>
-  - <a href="" target="_blank">Building technical skills</a>
-  - <a href="" target="_blank">Creating a cost-conscious organisation</a>
+    - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/organize/cloud-strategy" target="_blank">Cloud strategy functions</a>
+    - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/organize/cloud-adoption" target="_blank">Cloud adoption functions</a>
+    - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/organize/cloud-governance" target="_blank">Cloud governance functions</a>
+    - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/organize/central-it" target="_blank">Central IT functions</a>
+    - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/organize/cloud-operations" target="_blank">Cloud operations functions</a>
+    - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/organize/cloud-center-of-excellence" target="_blank">Cloud centre of excellence functions</a>
+    - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/organize/cloud-platform" target="_blank">Cloud platform functions</a>
+    - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/organize/cloud-automation" target="_blank">Cloud automation functions</a>
+    - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/organize/cloud-data" target="_blank">Cloud data functions</a>
+  - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/organize/organization-structures" target="_blank">Mature teams structure</a>
+  - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/organize/raci-alignment" target="_blank">Align the RACI matrix</a>
+  - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/organize/suggested-skills" target="_blank">Building technical skills</a>
+  - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/organize/cost-conscious-organization" target="_blank">Creating a cost-conscious organisation</a>
   - Organise antipatterns
-    - <a href="" target="_blank">Organisational antipatterns</a>
-    - <a href="" target="_blank">IT fiefdoms and IT silos</a>
+    - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/antipatterns/organize-antipatterns" target="_blank">Organisational antipatterns</a>
+    - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/organize/fiefdoms-silos" target="_blank">IT fiefdoms and IT silos</a>
   ### 🛠️ Tools
   - Strategy
     - <a href="https://learn.microsoft.com/en-us/assessments/8fefc6d5-97ac-42b3-8e97-d82701e55bab/" target="_blank">Cloud Adoption Strategy Evaluator assessment</a>
