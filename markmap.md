@@ -165,29 +165,29 @@ markmap:
   - <a href="" target="_blank">Migrate or modernise first?</a>
 
 ### 🔐 Govern
-- <a href="" target="_blank">Overview</a>
-- <a href="" target="_blank">Build a cloud governance team</a>
-- <a href="" target="_blank">Assess cloud risks</a>
-- <a href="" target="_blank">Document cloud governance policies</a>
-- <a href="" target="_blank">Enforce cloud governance policies</a>
-- <a href="" target="_blank">Monitor cloud governance</a>
+- <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/govern/" target="_blank">Overview</a>
+- <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/govern/build-cloud-governance-team" target="_blank">Build a cloud governance team</a>
+- <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/govern/assess-cloud-risks" target="_blank">Assess cloud risks</a>
+- <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/govern/document-cloud-governance-policies" target="_blank">Document cloud governance policies</a>
+- <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/govern/enforce-cloud-governance-policies" target="_blank">Enforce cloud governance policies</a>
+- <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/govern/monitor-cloud-governance" target="_blank">Monitor cloud governance</a>
 
 ### 🛡️ Secure
-- <a href="" target="_blank">Overview</a>
-- <a href="" target="_blank">Teams and roles</a>
-- <a href="" target="_blank">Strategy</a>
-- <a href="" target="_blank">Plan</a>
-- <a href="" target="_blank">Ready</a>
-- <a href="" target="_blank">Adopt</a>
-- <a href="" target="_blank">Govern</a>
-- <a href="" target="_blank">Manage</a>
+- <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/secure/overview" target="_blank">Overview</a>
+- <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/secure/teams-roles" target="_blank">Teams and roles</a>
+- <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/secure/strategy" target="_blank">Strategy</a>
+- <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/secure/plan" target="_blank">Plan</a>
+- <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/secure/ready" target="_blank">Ready</a>
+- <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/secure/adopt" target="_blank">Adopt</a>
+- <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/secure/govern" target="_blank">Govern</a>
+- <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/secure/manage" target="_blank">Manage</a>
 
 ### ⚙️ Manage
-- <a href="" target="_blank">Checklist</a>
-- <a href="" target="_blank">Ready operations</a>
-- <a href="" target="_blank">Administer Azure</a>
-- <a href="" target="_blank">Monitor Azure</a>
-- <a href="" target="_blank">Protect Azure</a>
+- <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/manage/" target="_blank">Checklist</a>
+- <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/manage/ready" target="_blank">Ready operations</a>
+- <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/manage/administer" target="_blank">Administer Azure</a>
+- <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/manage/monitor" target="_blank">Monitor Azure</a>
+- <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/manage/protect" target="_blank">Protect Azure</a>
 
 ## 📁 Resources
   ### 📚 Adoption scenarios
