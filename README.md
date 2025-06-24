@@ -18,13 +18,23 @@ This summary is ideal for newcomers or stakeholders who need to understand the b
 
 ---
 
+## 📚 Further Reading
+If you're looking to better understand why the Azure Cloud Adoption Framework matters and how it fits into the broader cloud transformation journey, check out this article from the Azure Architecture team:
+
+👉 [Why you need a Cloud Adoption Framework (CAF)... and probably a WAF too](https://techcommunity.microsoft.com/blog/azurearchitectureblog/why-you-need-a-cloud-adoption-framework-caf-and-probably-a-waf-too/3667426)
+> Published on Microsoft Tech Community
+
+This piece provides insight into how CAF supports structure and accountability in cloud journeys - and why governance (and sometimes a "WAF") shouldn't be an afterthought.
+
+---
+
 ## 🎯 About This Project
 
 I've built this project because I'm a visual learner, and while the Microsoft documentation for the Azure Cloud Adoption Framework (CAF) is excellent and comprehensive, the sheer volume of information can be overwhelming. Visualising the framework in an interactive map helps me better understand the structure, flow, and relationships between its components.
 
-By making this project open, I hope others can benefit from this format too—whether you're just beginning your cloud journey or looking for a clearer way to communicate CAF principles to your team.
+By making this project open, I hope others can benefit from this format too - whether you're just beginning your cloud journey or looking for a clearer way to communicate CAF principles to your team.
 
-> Note: All content and links are accurate as of **24 June 2025**. I’ll review and update periodically—pull requests are welcome!
+> Note: All content and links are accurate as of **24 June 2025**. I’ll review and update periodically - pull requests are welcome!
 
 > **Disclaimer:** This project is not affiliated with or endorsed by Microsoft. All content and intellectual property referenced belong to Microsoft. I'm simply building a free and useful visual tool around the excellent work they've already done.
 
