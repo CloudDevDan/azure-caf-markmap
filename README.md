@@ -10,6 +10,14 @@ This resource is built using [**Markmap**](https://markmap.js.org/), a JavaScrip
 
 ---
 
+## 📝 Microsoft Cloud Adoption Framework for Azure - Executive Summary
+
+For a concise overview of the Azure Cloud Adoption Framework and each of its key Methodologies, see the [Executive Summary](./azure-caf-exec-summary.md) file.
+
+This summary is ideal for newcomers or stakeholders who need to understand the big picture without digging into the full documentation. It explains what CAF is, why it matters, and what each phase covers - including strategy, planning, adoption, governance, security, and ongoing management.
+
+---
+
 ## 🎯 About This Project
 
 I've built this project because I'm a visual learner, and while the Microsoft documentation for the Azure Cloud Adoption Framework (CAF) is excellent and comprehensive, the sheer volume of information can be overwhelming. Visualising the framework in an interactive map helps me better understand the structure, flow, and relationships between its components.
