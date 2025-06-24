@@ -39,7 +39,7 @@ By making this project open, I hope others can benefit from this format too—wh
 - Sections aligned to the CAF methodology: Strategy, Plan, Ready, Adopt, Govern, Secure, Manage
 - Tools, templates, and resource references by phase
 - Helpful hierarchy and grouping to reduce overwhelm and improve navigation
-- 
+  
 ---
 
 ## 📈 Visual Format
@@ -64,7 +64,7 @@ Feel free to:
 
 ## 🪪 License
 
-This project is licensed under the **MIT License** — you're free to use, share, remix, and build upon it, as long as attribution is given.
+This project is licensed under the **MIT License** - you're free to use, share, remix, and build upon it, as long as attribution is given.
 
 --- 
 
