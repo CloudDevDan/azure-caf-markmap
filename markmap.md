@@ -12,7 +12,7 @@ markmap:
 
 # Azure Cloud Adoption Framework
 
-## 🧠 Methodologies
+## ⏩ Sequential Methodologies
 
 ### 📋 Strategy
 - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/strategy/" target="_blank">Overview</a>
@@ -163,6 +163,8 @@ markmap:
 - Guides
   - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/adopt/cloud-adoption" target="_blank">Cloud adoption journey</a>
   - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/adopt/migrate-or-modernize" target="_blank">Migrate or modernise first?</a>
+
+## 🔄 Continuous Methodologies
 
 ### 🔐 Govern
 - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/govern/" target="_blank">Overview</a>
