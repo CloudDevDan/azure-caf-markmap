@@ -243,7 +243,6 @@ markmap:
     - <a href="https://azure.github.io/PSRule.Rules.Azure/" target="_blank">PSRule for Azure</a>
     - <a href="https://www.azadvertizer.net/" target="_blank">AzAdvertizer</a>
 ### 📦 Additional resources
-<!-- - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework" target="_blank">Microsoft Cloud Adoption Framework for Azure</a> -->
 - <a href="https://learn.microsoft.com/en-us/azure/architecture/framework/" target="_blank">Well-Architected Framework</a>
 - <a href="https://learn.microsoft.com/en-us/azure/cloud-adoption-framework" target="_blank">Microsoft AI Adoption</a>
 - <a href="https://learn.microsoft.com/en-us/azure/app-modernization-guidance" target="_blank">App Modernisation Guidance for Azure</a>
